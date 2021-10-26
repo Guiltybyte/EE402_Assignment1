@@ -8,9 +8,9 @@ and your mileage may vary.
 ## Build Instructions
 git clone this repo.  
   
-from the project root, `cd` into the build directory
+from the project root, 
 ```
-cd build
+mkdir build && cd build
 ```  
 run cmake from build directory on root dir
 ```
